@@ -1,2 +1,18 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+ <!DOCTYPE HTML>
+<html>
+
+<body>
+
+  <p>Throw away your loose change..</p>
+
+  <script>
+    alert( 'Nina Bowen Rocks!' );
+  </script>
+
+<p>And</p>
+  
+<p>Eat shrimp </p>
+
+</body>
+
+</html>
